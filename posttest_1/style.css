@@ -1,0 +1,33 @@
+
+body{
+    height: 100px;
+    position: relative;
+}
+div{
+    width: 100px;
+    height: 100px;
+}
+
+.layout1{
+    background-color: cyan;
+    color: rgb(0, 0, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.layout2{
+    background-color:lawngreen;
+    color: rgb(0, 0, 0);
+}
+.layout3{
+    background-color: blueviolet;
+    color: rgb(5, 5, 5);
+    position: sticky;
+    top: 0;
+}
+
+.perent{
+    background-color: firebrick;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+}
