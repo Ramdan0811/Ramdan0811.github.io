@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    text-align: center;
+    display: flexbox;
+    background-color: aqua;
+  }
+table{
+    background-color: aliceblue;
+    position: relative;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    padding: 30px 30px;
+    margin-left: 450px;
+}
